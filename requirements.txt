@@ -1,0 +1,8 @@
+torch
+torchvision
+opencv-python
+segment-anything
+numpy
+ultralytics  # for YOLO-based person detection as a preliminary step
+supervision  # for visualization
+python-dotenv
